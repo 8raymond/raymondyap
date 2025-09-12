@@ -2,13 +2,13 @@ export const siteConfig = {
   name: "Raymond Yap",
   title: "Mechanical Engineer",
   description: "Portfolio website of Raymond Yap",
-  accentColor: "#1d4ed8",
+  accentColor: "#3d0169",
   social: {
     email: "yap.r@northeastern.edu",
     linkedin: "https://www.linkedin.com/in/8ryap/",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    "Hi! My name is Raymond Yap and I am a studying mechanical engineer in my 4th year at Northeastern University. I have designed, prototyped, and built hardware across many contexts ranging from aerospace robotics to industrial automation systems. I dedicate myself towards optimizing designs to their maximum efficiency in both functionality and/or cost, while utilizing CAD, analysis, and Engineering First Principles. I’ve previously worked 2 co-ops (6 mo. each), one at Blue Origin (Honeybee Robotics), and the other at Instron under the automation team. (see experiences). Between NASA contracted lunar landers and 6-axis robotic arms, I’ve functioned as a full-time mechanical engineer across a multitude of industries and design constraints. Born and raised in the Bay Area, I love hiking through redwoods and enjoying Monterey Bay beaches whenever possible. I also play badminton as my main sport and am currently part of the Northeastern Club Badminton team.",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
