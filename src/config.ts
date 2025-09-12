@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Raymond Yap",
   title: "Mechanical Engineer",
   description: "Portfolio website of Raymond Yap",
-  accentColor: "#3d0169",
+  accentColor: "#6396c5",
   social: {
     email: "yap.r@northeastern.edu",
     linkedin: "https://www.linkedin.com/in/8ryap/",
