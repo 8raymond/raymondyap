@@ -4,7 +4,9 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://8raymond.github.io/raymondyap/',
-  base: '/raymondyap',
-  plugins: [tailwindcss()],
+  site: "https://8raymond.github.io/raymondyap/",
+  base: "/raymondyap",
+  vite: {
+    plugins: [tailwindcss()],
+  },
 });
