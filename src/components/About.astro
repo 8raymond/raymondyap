@@ -19,9 +19,10 @@ import { siteConfig } from "../config";
 
       <div class="lg:col-span-8 space-y-8">
         {siteConfig.aboutMe.map(paragraph => (
-          <p class="text-lg sm:text-xl md:text-2xl leading-relaxed text-gray-600">
-            {paragraph}
-          </p>
+          <p
+            class="text-lg sm:text-xl md:text-2xl leading-relaxed text-gray-600"
+            set:html={paragraph}
+          />
         ))}
 
         <div class="pt-4">
