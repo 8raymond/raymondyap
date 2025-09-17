@@ -26,9 +26,9 @@ export const siteConfig = {
     {
       name: "NASA CP-21 Rover Offloader: Lunar Lander Steward Platform",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+        "3 DOF, +- 20 deg pitch/roll steward platform designed at 1:1 scale to Firefly Aerospace's Blue Ghost lander. Designed to verify rover offloader in various lunar lander orientations; built using 90% COTS components.",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["CAD", "DFA", "Excel Automated Stress/CG Analysis", "8020 Prototyping", "Linkage DOF Calculation"],
     },
     {
       name: "ExtensionKit",
