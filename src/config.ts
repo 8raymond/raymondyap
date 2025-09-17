@@ -14,7 +14,7 @@ export const siteConfig = {
 
   "Born and raised in the <strong>Bay Area</strong>, I love hiking through redwoods and enjoying Monterey Bay beaches whenever possible. I also play badminton as my main sport and am currently part of the Northeastern Club Badminton team."
 ],
-  skills: ["CAD", "GD&T", "DFM", "Rapid Prototyping", "Assembly/Manufacturing", "Robotics"],
+  skills: ["CAD", "GD&T", "DFM/DFA", "Rapid Prototyping", "Assembly/Manufacturing", "Robotics"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
