@@ -17,7 +17,7 @@ export const siteConfig = {
   skills: ["CAD", "GD&T", "DFM/DFA", "FEA", "Rapid Prototyping", "Assembly/Machining", "Robotics"],
   projects: [
     {
-      name: "Blue Origin Crew Lander Rotational Hand Controller Testbed",
+      name: "Blue Origin Mk-II Lander Rotational Hand Controller Testbed",
       description:
         "Gimbal-mechanism, 3 DOF, motorized testbed for Mk-II Crew Lander (Artemis V, 2030). Designed to achieve entire hand controller pareto frontier and verify torque requirements via ATI multiaxial load cell integration",
       link: "https://aidevroundup.com/?ref=devportfolio",
@@ -31,11 +31,11 @@ export const siteConfig = {
       skills: ["CAD", "DFA", "Excel Automated Stress/CG Analysis", "8020 Prototyping", "Linkage DOF Calculation"],
     },
     {
-      name: "ExtensionKit",
+      name: "Instron Automated XY Stage Compression Pin Cleaning Station",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
+        "User-facing debris cleaning/containment chamber designed for automation compression testing. Compartmentalized collection for 300+ testing cycles. Designed for user ergonomics and removal interactions via lid magnets, etc.",
       link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["CAD", "Node.js", "Material Selection (Mated Surfaces)"],
     },
     {
       name: "ExtensionKit",
