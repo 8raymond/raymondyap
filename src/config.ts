@@ -14,14 +14,14 @@ export const siteConfig = {
 
   "Born and raised in the <strong>Bay Area</strong>, I love hiking through redwoods and enjoying Monterey Bay beaches whenever possible. I also play badminton as my main sport and am currently part of the Northeastern Club Badminton team."
 ],
-  skills: ["CAD", "GD&T", "DFM/DFA", "Rapid Prototyping", "Assembly/Manufacturing", "Robotics"],
+  skills: ["CAD", "GD&T", "DFM/DFA", "FEA", "Rapid Prototyping", "Assembly/Machining", "Robotics"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Blue Origin Crew Lander Rotational Hand Controller Testbed",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+        "Gimbal-mechanism, 3 DOF, motorized testbed for Mk-II Crew Lander (Artemis V, 2030). Designed to achieve entire hand controller pareto frontier and verify torque requirements via ATI multiaxial load cell integration",
       link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["CAD", "GD&T + Stackups", "Stress Analysis", "Motor/Sensor System Design"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
