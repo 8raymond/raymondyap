@@ -24,7 +24,7 @@ export const siteConfig = {
       skills: ["CAD", "GD&T + Stackups", "Stress Analysis", "Motor/Sensor System Design"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "NASA CP-21 Rover Offloader: Lunar Lander Steward Platform",
       description:
         "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
       link: "https://fullstackextensions.com/?ref=devportfolio",
