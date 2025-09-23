@@ -41,7 +41,7 @@ export const siteConfig = {
       name: "Instron AT3 Automated Torsion Testing Socket Adapter/Grip/Racks",
       description:
         "Self-seating socket adapter for 3-axis automated (nut-bolt + loctite specimen) torsion testing arrangement. Designed to achieve mating across any specimen angular discrepancy. Custom racks/gripper fingers for specimen mounting and manipulation.",
-      link: "https://extensionkit.io/?ref=devportfolio",
+      link: "https://docs.google.com/presentation/d/1fSf1T0BSkDyapGGJSY5c87N0000_ztsr/edit?slide=id.p5#slide=id.p5",
       skills: ["GD&T + Drafting", "CAD", "DFA", "Client Communications"],
     },
   ],
