@@ -61,7 +61,7 @@ export const siteConfig = {
     {
       company: "Instron (Automation Team)",
       title: "Mechanical Engineering Co-op",
-      dateRange: "Jun 2020 - Dec 2021",
+      dateRange: "Jan 2024 - Jul 2024",
       bullets: [
         "Full project ownership + design of custom high-capacity specimen rack assembly for leading smartphone company",
         "Developed and pitched peel-test specimen preparation station + magnetic clip racks to client, resulting in approval and contract",
@@ -75,7 +75,7 @@ export const siteConfig = {
   education: [
     {
       school: "Northeastern University",
-      degree: "Bachelor of Science in Mechanical Engineering",
+      degree: "B.S. Mechanical Engineering",
       dateRange: "2022 - 2026",
       achievements: [
         "Dean's Merit Scholarship",
@@ -85,13 +85,16 @@ export const siteConfig = {
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "Valley Christian High School",
+      degree: "AMSE, STEM student",
+      dateRange: "2018 - 2022",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "2nd Place Paper/Poster Competition: 2021 American Society for Gravitational and Space Research",
+        "Team Lead of the Year: QUEST International Space Station Research Lab",
+        "Gold President's Volunteering Award",
+        "California Senate Recognition for FLL Robotics Worlds performance",
+        "National Merit Scholarship",
+        "AP Scholar with Distinction",
       ],
     },
   ],
