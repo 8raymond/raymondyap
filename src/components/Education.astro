@@ -1,7 +1,5 @@
----
 import { siteConfig } from "../config";
 const hasEducation = siteConfig.education && siteConfig.education.length > 0;
----
 
 {
   hasEducation && (
@@ -28,7 +26,7 @@ const hasEducation = siteConfig.education && siteConfig.education.length > 0;
                         {edu.degree}
                       </h3>
                       <p
-                        class="text-base sm:text-lg"
+                        class="text-base sm:text-lg font-bold"
                         style={`color: ${siteConfig.accentColor}`}
                       >
                         {edu.school}
