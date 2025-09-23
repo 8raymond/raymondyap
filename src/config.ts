@@ -20,21 +20,21 @@ export const siteConfig = {
       name: "Blue Origin Mk-II Lander Rotational Hand Controller Testbed",
       description:
         "Gimbal-mechanism, 3 DOF, motorized testbed for Mk-II Crew Lander (Artemis V, 2030). Designed to achieve entire hand controller pareto frontier and verify torque requirements via ATI multiaxial load cell integration",
-      link: "https://aidevroundup.com/?ref=devportfolio",
+      link: "link pending",
       skills: ["CAD", "GD&T + Stackups", "Stress Analysis", "Motor/Sensor System Design", "Drafting"],
     },
     {
       name: "NASA CP-21 Rover Offloader: Lunar Lander Steward Platform",
       description:
         "3 DOF, +- 20 deg pitch/roll steward platform designed at 1:1 scale to Firefly Aerospace's Blue Ghost lander. Designed to verify rover offloader in various lunar lander orientations; built using 90% COTS components.",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
+      link: "link pending",
       skills: ["CAD", "DFA", "Excel Automated Stress/CG Analysis", "8020 Prototyping", "Linkage DOF Calculation", "Drafting"],
     },
     {
       name: "Instron Automated XY Stage Compression Pin Cleaning Station",
       description:
         "User-facing debris cleaning/containment chamber designed for automation compression testing. Compartmentalized collection for 300+ testing cycles. Designed for user ergonomics and removal interactions via lid magnets, etc.",
-      link: "https://extensionkit.io/?ref=devportfolio",
+      link: "https://docs.google.com/presentation/d/1fSf1T0BSkDyapGGJSY5c87N0000_ztsr/edit?slide=id.p3#slide=id.p3",
       skills: ["CAD", "DFM", "Material Selection (Mated Surfaces)", "COTS Sourcing", "Drafting"],
     },
     {
