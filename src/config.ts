@@ -74,7 +74,7 @@ export const siteConfig = {
   ],
   education: [
   {
-    school: "<strong>Northeastern University</strong>",
+    school: "Northeastern University",
     degree: "B.S. Mechanical Engineering",
     dateRange: "2022 - 2026",
     achievements: [
@@ -85,7 +85,7 @@ export const siteConfig = {
     ],
   },
   {
-    school: "<strong>Valley Christian High School</strong>",
+    school: "Valley Christian High School",
     degree: "AMSE, STEM Student",
     dateRange: "2018 - 2022",
     achievements: [
