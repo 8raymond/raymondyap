@@ -44,6 +44,13 @@ export const siteConfig = {
       link: "https://docs.google.com/presentation/d/1fSf1T0BSkDyapGGJSY5c87N0000_ztsr/edit?slide=id.p5#slide=id.p5",
       skills: ["GD&T + Drafting", "CAD", "DFA", "Client Communications"],
     },
+    {
+      name: "International Space Station Research Lab Payload(s)",
+      description:
+        "Executed and fully designed 3 autonomous microlab experiments sent aboard the International Space Station; published and presented papers on 2 experiments Microgravity Induced Corrosion and N. Muscorum Growth in Microgravity for ASGSR, awarded 2nd Place in Poster Competition project. Served as Team Lead for 7+ members, delegating tasks and organizing benchmark design reviews",
+      link: "link pending",
+      skills: ["Team Leadership", "CAD", "Electrical Schematics", "Arduino", "3D Printing"],
+    },
   ],
   experience: [
     {
