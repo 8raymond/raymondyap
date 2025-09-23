@@ -74,13 +74,14 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Northeastern University",
+      degree: "Bachelor of Science in Mechanical Engineering",
+      dateRange: "2022 - 2026",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
+        "Dean's Merit Scholarship",
         "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Northeastern Robotics Club: Robot Arm, Robot Dog, Combat Robotics",
+        "Mechanical Engineering Computation & Design | System Analysis & Control | Capstone | Mechanics of Materials | Thermal System Analysis | Dynamics | Measurement and Analysis | Fluid Mechanics | Statics | DiffEQ & LinAl",
       ],
     },
     {
