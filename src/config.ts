@@ -10,7 +10,7 @@ export const siteConfig = {
   aboutMe: [
   "Hi! My name is <strong>Raymond Yap</strong> and I am a studying mechanical engineer in my 4th year at Northeastern University. I have designed, prototyped, and built hardware across many contexts ranging from aerospace robotics to industrial automation systems.",
 
-  "I dedicate myself towards optimizing designs to their maximum efficiency in both functionality and/or cost, while utilizing CAD, analysis, and Engineering First Principles. I’ve previously worked 2 co-ops (6 mo. each), one at <strong>Blue Origin (Honeybee Robotics)</strong>, and the other at <strong>Instron</strong> under the automation team (see experiences). Between NASA contracted lunar landers and 6-axis robotic arms, I’ve functioned as a full-time mechanical engineer across a multitude of industries and design constraints.",
+  "I dedicate myself towards optimizing designs to their maximum efficiency in both functionality and/or cost, while utilizing CAD, analysis, and Engineering First Principles. I’ve previously worked 2 co-ops (6 mo. each), one at <strong>Blue Origin (Honeybee Robotics)</strong>, and the other at <strong>Instron</strong> under the automation team (see experiences). Between NASA contracted lunar landers and 6-axis robotic arms, I’ve functioned as a mechanical engineer across a multitude of industries and design constraints.",
 
   "Born and raised in the <strong>Bay Area</strong>, I love hiking through redwoods and enjoying Monterey Bay beaches whenever possible. I also play badminton as my main sport and am currently part of the Northeastern Club Badminton team."
 ],
@@ -21,28 +21,28 @@ export const siteConfig = {
       description:
         "Gimbal-mechanism, 3 DOF, motorized testbed for Mk-II Crew Lander (Artemis V, 2030). Designed to achieve entire hand controller pareto frontier and verify torque requirements via ATI multiaxial load cell integration",
       link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["CAD", "GD&T + Stackups", "Stress Analysis", "Motor/Sensor System Design"],
+      skills: ["CAD", "GD&T + Stackups", "Stress Analysis", "Motor/Sensor System Design", "Drafting"],
     },
     {
       name: "NASA CP-21 Rover Offloader: Lunar Lander Steward Platform",
       description:
         "3 DOF, +- 20 deg pitch/roll steward platform designed at 1:1 scale to Firefly Aerospace's Blue Ghost lander. Designed to verify rover offloader in various lunar lander orientations; built using 90% COTS components.",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["CAD", "DFA", "Excel Automated Stress/CG Analysis", "8020 Prototyping", "Linkage DOF Calculation"],
+      skills: ["CAD", "DFA", "Excel Automated Stress/CG Analysis", "8020 Prototyping", "Linkage DOF Calculation", "Drafting"],
     },
     {
       name: "Instron Automated XY Stage Compression Pin Cleaning Station",
       description:
         "User-facing debris cleaning/containment chamber designed for automation compression testing. Compartmentalized collection for 300+ testing cycles. Designed for user ergonomics and removal interactions via lid magnets, etc.",
       link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["CAD", "Node.js", "Material Selection (Mated Surfaces)"],
+      skills: ["CAD", "DFM", "Material Selection (Mated Surfaces)", "COTS Sourcing", "Drafting"],
     },
     {
-      name: "ExtensionKit",
+      name: "Instron AT3 Automated Torsion Testing Socket Adapter/Grip/Racks",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
+        "Self-seating socket adapter for 3-axis automated (nut-bolt + loctite specimen) torsion testing arrangement. Designed to achieve mating across any specimen angular discrepancy. Custom racks/gripper fingers for specimen mounting and manipulation.",
       link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["GD&T + Drafting", "CAD", "DFA", "Client Communications"],
     },
   ],
   experience: [
