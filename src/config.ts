@@ -73,28 +73,28 @@ export const siteConfig = {
     },
   ],
   education: [
-    {
-      school: "<strong>Northeastern University</strong>",
-      degree: "B.S. Mechanical Engineering",
-      dateRange: "2022 - 2026",
-      achievements: [
-        "Dean's Merit Scholarship",
-        "Dean's List all semesters",
-        "Northeastern Robotics Club: Robot Arm, Robot Dog, Combat Robotics",
-        "Mechanical Engineering Computation & Design | System Analysis & Control | Capstone | Mechanics of Materials | Thermal System Analysis | Dynamics | Measurement and Analysis | Fluid Mechanics | Statics | DiffEQ & LinAl",
-      ],
-    },
-    {
-      school: "<strong>Valley Christian High School</strong>",
-      degree: "AMSE, STEM Student",
-      dateRange: "2018 - 2022",
-      achievements: [
-        "2nd Place Paper/Poster Competition: 2021 American Society for Gravitational and Space Research",
-        "Team Lead of the Year: QUEST International Space Station Research Lab",
-        "Gold President's Volunteering Award",
-        "California Senate Recognition for FLL Robotics Worlds performance",
-        "National Merit Scholarship",
-        "AP Scholar with Distinction",
+  {
+    school: "<strong>Northeastern University</strong>",
+    degree: "B.S. Mechanical Engineering",
+    dateRange: "2022 - 2026",
+    achievements: [
+      "Dean's Merit Scholarship",
+      "Dean's List all semesters",
+      "Northeastern Robotics Club: Robot Arm, Robot Dog, Combat Robotics",
+      "Mechanical Engineering Computation & Design | System Analysis & Control | Capstone | Mechanics of Materials | Thermal System Analysis | Dynamics | Measurement and Analysis | Fluid Mechanics | Statics | DiffEQ & LinAl",
+    ],
+  },
+  {
+    school: "<strong>Valley Christian High School</strong>",
+    degree: "AMSE, STEM Student",
+    dateRange: "2018 - 2022",
+    achievements: [
+      "2nd Place Paper/Poster Competition: 2021 American Society for Gravitational and Space Research",
+      "Team Lead of the Year: QUEST International Space Station Research Lab",
+      "Gold President's Volunteering Award",
+      "California Senate Recognition for FLL Robotics Worlds performance",
+      "National Merit Scholarship",
+      "AP Scholar with Distinction",
       ],
     },
   ],
