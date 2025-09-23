@@ -97,7 +97,7 @@ export const siteConfig = {
     dateRange: "2018 - 2022",
     achievements: [
       "2nd Place Paper/Poster Competition: 2021 American Society for Gravitational and Space Research",
-      "Team Lead of the Year: QUEST International Space Station Research Lab",
+      "QUEST International Space Station Research Lab: Team Lead of the Year:",
       "Gold President's Volunteering Award",
       "California Senate Recognition for FLL Robotics Worlds performance",
       "National Merit Scholarship",
