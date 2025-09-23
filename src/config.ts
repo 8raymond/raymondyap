@@ -47,13 +47,15 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Blue Origin, Honeybee Robotics",
+      title: "Mechanical Engineering Co-op",
+      dateRange: "Jan 2025 - Jul 2025",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Owned and designed reusable, 3 DOF, gimbal-mechanism testbed for Blue Origin Mk-II crew lander rotational hand controller torque/reach verification testing; upheld 3-4 month SRR and PDR timelines, receiving approval from Blue/Honeybee senior review boards.",
+        "Designed and assembled 1:1 scale lunar lander steward platform using 90% COTS materials (<$3000 raw materials), enabling rover offloading verification for NASA CP-21 mission.",
+        "Automated trigonometry dependent power-screw/pulley calculations for rover offloading drive mechanism, streamlining motor sizing/feasability decisions.",
+        "Modeled moon-gravity (1/6) rover mass-model with configurable CG; designed with mounting cup-cone interace for offloader testing.",
+        "Implemented cost-efficient (<$1000) ultrasound indoor positioning system for precision rover tracking + path replication",
       ],
     },
     {
