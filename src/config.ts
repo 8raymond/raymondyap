@@ -17,14 +17,14 @@ export const siteConfig = {
   skills: ["CAD", "GD&T", "DFM/DFA", "FEA", "Rapid Prototyping", "Assembly/Machining", "Robotics"],
   projects: [
     {
-      name: "Blue Origin Mk-II Lander Rotational Hand Controller Testbed",
+      name: "Blue Origin Mk-II Lander Rotational Hand Controller Testbed - Pending Blue Origin Export Approval",
       description:
         "Gimbal-mechanism, 3 DOF, motorized testbed for Mk-II Crew Lander (Artemis V, 2030). Designed to achieve entire hand controller pareto frontier and verify torque requirements via ATI multiaxial load cell integration",
       link: "link pending",
       skills: ["CAD", "GD&T + Stackups", "Stress Analysis", "Motor/Sensor System Design", "Drafting"],
     },
     {
-      name: "NASA CP-21 Rover Offloader: Lunar Lander Steward Platform",
+      name: "NASA CP-21 Rover Offloader: Lunar Lander Steward Platform - Pending Blue Origin Export Approval",
       description:
         "3 DOF, +- 20 deg pitch/roll steward platform designed at 1:1 scale to Firefly Aerospace's Blue Ghost lander. Designed to verify rover offloader in various lunar lander orientations; built using 90% COTS components.",
       link: "link pending",
