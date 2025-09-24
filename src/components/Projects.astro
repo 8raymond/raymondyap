@@ -40,38 +40,23 @@ const hasProjects = siteConfig.projects && siteConfig.projects.length > 0;
                           : ""
                       }`}
                     >
-                      {project.link && (
-                        <a
-                          href={project.link}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          class="absolute top-4 right-4 sm:top-6 sm:right-6 md:top-8 md:right-8 flex flex-col items-center group/link"
+                     {project.link && (
+                      <div class="absolute top-4 right-4 sm:top-6 sm:right-6 md:top-8 md:right-8 w-10 h-10 sm:w-11 sm:h-11 md:w-12 md:h-12 flex items-center justify-center bg-gray-900 rounded-full text-white transition-all duration-300 group-hover:bg-gray-700">
+                        <svg
+                          class="w-4 h-4 sm:w-4.5 sm:h-4.5 md:w-5 md:h-5 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5"
+                          fill="none"
+                          stroke="currentColor"
+                          viewBox="0 0 24 24"
                         >
-                          {/* Arrow icon */}
-                          <div class="w-10 h-10 sm:w-11 sm:h-11 md:w-12 md:h-12 flex items-center justify-center bg-gray-900 rounded-full text-white transition-all duration-300 group-hover/link:bg-gray-700">
-                            <svg
-                              class="w-4 h-4 sm:w-4.5 sm:h-4.5 md:w-5 md:h-5 transition-transform duration-300 group-hover/link:translate-x-0.5 group-hover/link:-translate-y-0.5"
-                              fill="none"
-                              stroke="currentColor"
-                              viewBox="0 0 24 24"
-                            >
-                              <path
-                                stroke-linecap="round"
-                                stroke-linejoin="round"
-                                stroke-width="2"
-                                d="M7 17L17 7M17 7H7M17 7V17"
-                              />
-                            </svg>
-                          </div>
-                      
-                          {/* Bold "see project" text */}
-                          <span class="mt-1 text-xs font-bold text-gray-600 transition-colors duration-300 group-hover/link:text-gray-800">
-                            see project
-                          </span>
-                        </a>
-                      )}
-
-
+                          <path
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="2"
+                            d="M7 17L17 7M17 7H7M17 7V17"
+                          />
+                        </svg>
+                      </div>
+                    )}
 
                       <div class="space-y-4">
                         <div>
