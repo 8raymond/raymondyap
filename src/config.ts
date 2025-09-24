@@ -19,7 +19,7 @@ export const siteConfig = {
     {
       name: "<span class='text-gray-400 italic'>Pending Blue Origin Export Approval</span><br/>Blue Origin Mk-II Lander Rotational Hand Controller Testbed",
       description:
-        "Gimbal-mechanism, 3 DOF, motorized testbed for Mk-II Crew Lander (Artemis V, 2030). Designed to achieve entire hand controller pareto frontier and verify torque requirements via ATI multiaxial load cell integration",
+        "Gimbal-mechanism, 3 DOF, motorized testbed for Mk-II Crew Lander (Artemis V, 2030) rotational hand controller. Designed to achieve entire hand controller pareto frontier and verify torque requirements via ATI multiaxial load cell integration",
       link: "link pending",
       skills: ["CAD", "GD&T + Stackups", "Stress Analysis", "Motor/Sensor System Design", "Drafting"],
     },
