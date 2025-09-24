@@ -67,14 +67,14 @@ const hasProjects = siteConfig.projects && siteConfig.projects.length > 0;
                             0{index + 1}
                           </span>
                           <h3 class="text-xl sm:text-2xl font-bold text-gray-900 mt-1">
-                            set:html={project.name}
+                            {project.name}
                           </h3>
                         </div>
 
                       <p
                         class={`text-base sm:text-lg text-gray-600 leading-relaxed ${project.link ? "pr-12 sm:pr-14 md:pr-16" : ""}`}
                       >
-                        set:html={project.description}
+                        {project.description}
                       </p>
 
                         {project.skills && project.skills.length > 0 && (
