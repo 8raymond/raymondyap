@@ -10,21 +10,21 @@ export const siteConfig = {
   aboutMe: [
   "Hi! My name is <strong>Raymond Yap</strong> and I am a studying mechanical engineer in my 4th year at Northeastern University. I have designed, prototyped, and built hardware across many contexts ranging from aerospace robotics to industrial automation systems.",
 
-  "I dedicate myself towards optimizing designs to their maximum efficiency in both functionality and/or cost, while utilizing CAD, analysis, and Engineering First Principles. I’ve previously worked 2 co-ops (6 mo. each), one at <strong>Blue Origin (Honeybee Robotics)</strong>, and the other at <strong>Instron</strong> <a href='https://docs.google.com/presentation/d/1fSf1T0BSkDyapGGJSY5c87N0000_ztsr/edit?usp=sharing&ouid=103003483898388432652&rtpof=true&sd=true' target='_blank' rel='noopener noreferrer' style='color: #6396c5; font-weight: bold; text-decoration: underline;'>(Co-op Portfolio)</a> under the automation team. Between NASA contracted lunar landers and 6-axis robotic arms, I’ve functioned as a mechanical engineer across a multitude of industries and design constraints.",
+  "I dedicate myself towards optimizing designs to their maximum efficiency in both functionality and/or cost, while utilizing CAD, analysis, and Engineering First Principles. I’ve previously worked 2 co-ops (6 mo. each), one at <strong>Blue Origin (Honeybee Robotics)</strong>, and the other at <strong>Instron</strong> <a href='https://docs.google.com/presentation/d/1fSf1T0BSkDyapGGJSY5c87N0000_ztsr/edit?usp=sharing&ouid=103003483898388432652&rtpof=true&sd=true' target='_blank' rel='noopener noreferrer' style='color: #4d799d; font-weight: bold; text-decoration: underline;'>(Co-op Portfolio)</a> under the automation team. Between NASA contracted lunar landers and 6-axis robotic arms, I’ve functioned as a mechanical engineer across a multitude of industries and design constraints.",
 
   "Born and raised in the <strong>Bay Area</strong>, I love hiking through redwoods and enjoying Monterey Bay beaches whenever possible. I also play badminton as my main sport and am currently part of the Northeastern Club Badminton team."
 ],
   skills: ["CAD", "GD&T", "DFM/DFA", "FEA", "Rapid Prototyping", "Assembly/Machining", "Robotics"],
   projects: [
     {
-      name: "Blue Origin Mk-II Lander Rotational Hand Controller Testbed - Pending Blue Origin Export Approval",
+      name: "Blue Origin Mk-II Lander Rotational Hand Controller Testbed - <em>Pending Blue Origin Export Approval</em>",
       description:
         "Gimbal-mechanism, 3 DOF, motorized testbed for Mk-II Crew Lander (Artemis V, 2030). Designed to achieve entire hand controller pareto frontier and verify torque requirements via ATI multiaxial load cell integration",
       link: "link pending",
       skills: ["CAD", "GD&T + Stackups", "Stress Analysis", "Motor/Sensor System Design", "Drafting"],
     },
     {
-      name: "NASA CP-21 Rover Offloader: Lunar Lander Steward Platform - Pending Blue Origin Export Approval",
+      name: "NASA CP-21 Rover Offloader: Lunar Lander Steward Platform - <em>Pending Blue Origin Export Approval</em>",
       description:
         "3 DOF, +- 20 deg pitch/roll steward platform designed at 1:1 scale to Firefly Aerospace's Blue Ghost lander. Designed to verify rover offloader in various lunar lander orientations; built using 90% COTS components.",
       link: "link pending",
