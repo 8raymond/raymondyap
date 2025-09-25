@@ -63,6 +63,7 @@ export const siteConfig = {
         "Automated trigonometry dependent power-screw/pulley calculations for rover offloading drive mechanism, streamlining motor sizing/feasability decisions.",
         "Modeled moon-gravity (1/6) rover mass-model with configurable CG; designed with mounting cup-cone interace for offloader testing.",
         "Implemented cost-efficient (<$1000) ultrasound indoor positioning system for precision rover tracking + path replication",
+        "2nd Place @ Honeybee Robotics Ping Pong Tournament 🏓",
       ],
     },
     {
